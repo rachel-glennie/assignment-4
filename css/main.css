@@ -1,0 +1,105 @@
+html {
+	background-color: #dbd6cf;
+}
+h1, h2, h3 {
+	font-family: 'Bevan', cursive;
+	color: #79756f;
+	line-height: 1.5
+}
+
+body {
+	font-family: 'Arial', sans-serif;
+	margin: 1em;
+	max-width: 45rem;
+}
+
+.planets {
+	list-style-type: lower-roman;
+}
+
+ul a {
+	color: #713837;
+}
+
+ul a:hover {
+	color: #ff3333;
+}
+
+figcaption {
+	font-style: italic;
+	font-size: 0.75rem;
+}
+.quote {
+	padding-left: 2rem;
+	font-family: Georgia;
+	font-style: italic;
+	font-size: 1.5rem
+ }
+
+.neil {
+	font-size: 0.75rem;
+	font-style: italic;
+	color: #79756f;
+	text-align: right;
+}
+
+dt {
+	font-weight: bold;
+	line-height: 1.5
+}
+
+.links {
+	list-style-type: circle;
+}
+
+span {
+	font-size: 2.5rem;
+	font-weight: bold;
+	color: #79756f;
+	line-height: 0.80
+}
+
+figure {
+	border: 3px solid #bcb9b2;
+	border-radius: 20px;
+	padding: 0.25rem 1rem;
+	display: inline block;
+}
+
+footer {
+	background-color: #79756f;
+	padding: 0.1em 0.75em;
+}
+
+.sources {
+	color: white;
+	margin: 0rem;
+}
+
+header {
+	background-color: #79756f;
+	padding: 0.2em;
+
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+ol {
+	list-style-type: none;
+}
+
+ol a {
+	background-color: #713837;
+	padding: 0.5rem 0.75rem;
+	color: white;
+	text-decoration: none;
+	border-radius: 4px;
+}
+
+ol li{
+	display: inline-block;
+	margin: 0.6em 0.05em;
+}
